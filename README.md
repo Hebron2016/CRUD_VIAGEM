@@ -1,4 +1,4 @@
-# CRUD_VIAGEM (atuando
+# CRUD_VIAGEM (atuando)
 CRUD de viagem de onibus de LabBD
 
 Status:
